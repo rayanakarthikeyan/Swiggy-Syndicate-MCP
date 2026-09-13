@@ -1,0 +1,27 @@
+{
+  "name": "swiggy-syndicate-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Group Order and Meeting Concierge MCP Server powered by Swiggy Food API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "demo": "ts-node src/demo/run-demo.ts",
+    "web": "ts-node src/demo/web-server.ts",
+    "test": "ts-node test/optimizer.test.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.24",
+    "@types/node-fetch": "^2.6.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
