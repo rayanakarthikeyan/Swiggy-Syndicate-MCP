@@ -1,6 +1,6 @@
 # Swiggy Syndicate
 
-[![CI](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions/workflows/ci.yml/badge.svg)](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions)
+[![CI](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
