@@ -1,5 +1,11 @@
 # Swiggy Syndicate
 
+[![CI](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions/workflows/ci.yml/badge.svg)](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP)
+
 An Autonomous Group Order & Meeting Concierge Model Context Protocol (MCP) Server.
 
 Swiggy Syndicate coordinates multi-party food ordering workflows on top of Swiggy Food MCP API. It addresses collective decision-making friction, dietary constraints, delivery SLAs, cart SKU consolidation, and itemized bill splitting with UPI reimbursement links.

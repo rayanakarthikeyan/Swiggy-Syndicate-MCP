@@ -23,5 +23,29 @@
     "@types/node-fetch": "^2.6.11",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rayana Karthikeyan",
+    "email": "rayanakarthikeyan@gmail.com",
+    "url": "https://github.com/rayanakarthikeyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP/issues"
+  },
+  "homepage": "https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP#readme",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "swiggy",
+    "food-delivery",
+    "group-ordering",
+    "ai-agents",
+    "claude",
+    "cursor"
+  ]
 }
